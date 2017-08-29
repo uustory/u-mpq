@@ -16,6 +16,7 @@
 
 
 **目录结构**
+
 mpqpacker：
 
     ----mpq.py MPQ打包工具脚本，需要安装python 2.*版本。建议安装python 2.7.10以上版本
